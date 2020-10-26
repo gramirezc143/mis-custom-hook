@@ -1,0 +1,9 @@
+# useFetch Hook
+
+Ejemplo de uso
+```
+
+    const url = 'enpoint de una api';
+    const { data: null, loading: true, error: null } = useCounter(10);
+
+```
